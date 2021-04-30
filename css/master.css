@@ -2,7 +2,7 @@
 /*rem it stands for root em*/
 
 a{
-  color: salmon; /*set the text color to blue here */
+  color: gray; /*set the text color to blue here */
   text-decoration: none; /* This means we do not want hyperlinks to be underlined */
 }
 a:hover {
